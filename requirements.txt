@@ -1,0 +1,8 @@
+python-chess
+berserk
+pyttsx3
+opencv-python
+numpy
+requests
+Pillow
+flask

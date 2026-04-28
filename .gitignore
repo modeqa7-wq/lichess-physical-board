@@ -1,0 +1,21 @@
+# Secrets — NEVER commit these
+settings.json
+
+# Debug / calibration output
+debug_*.png
+snapshot_*.png
+camera_calibration.npz
+sqdict.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
