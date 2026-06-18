@@ -102,10 +102,6 @@ python gui_app.py
 4. **Infer** — Changed squares are analyzed to determine which legal chess move was made, with confidence scoring for ambiguous cases.
 5. **Submit** — The move is sent to Lichess via the Board API. The opponent's response is received via game stream and announced via TTS.
 
-## Built With AI
-
-This entire project was developed iteratively using AI-powered pair programming (Claude / Antigravity). The state machine for move detection, SSIM-based change detection, homography calibration, and multi-candidate move disambiguation were all designed and refined through collaborative AI-assisted development sessions.
-
 ## License
 
 MIT
